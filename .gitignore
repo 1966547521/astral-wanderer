@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+
+*.local
+.env
+.DS_Store
+Thumbs.db
+
+.trae/
