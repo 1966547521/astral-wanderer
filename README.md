@@ -1,3 +1,4 @@
+[![Play Now](https://img.shields.io/badge/🎮-Live_Demo-44cc66?style=for-the-badge)](https://你的用户名.github.io/astral-wanderer/)
 # 星界旅者 · Astral Wanderer
 
 > 类 Rogue 地牢探险游戏 · 回合制战斗 · Canvas 2D 渲染
